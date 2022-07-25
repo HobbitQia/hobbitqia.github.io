@@ -1,2 +1,2 @@
 # my blog
-[httphobbitqia.github.io](https://blog.hobbitqia.cc/)
+[blog.hobbitqia.cc](https://blog.hobbitqia.cc/)
