@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hobbitqia.github.io/sitemap.xml
