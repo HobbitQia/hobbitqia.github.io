@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -24,3 +24,5 @@ I am Jiajun Qin (秦嘉俊 in Chinese), a third-year undergraduate majoring in C
 My research interests focus on **Machine Learning systems**, **heterogeneous computing** and **computer architecture**. 
 
 Here is my [CV](../assets/pdf/CV.pdf).
+
+Feel free to contact me at hobbitqia@zju.edu.cn or hobbitqia@gmail if you’d like to chat!
