@@ -21,8 +21,8 @@ social: false  # includes social icons at the bottom of the page
 
 I am Jiajun Qin (秦嘉俊 in Chinese), a third-year undergraduate majoring in Computer Science and Technology at [Turing Class, Chu Kochen Honors College, Zhejiang University](http://www.cs.zju.edu.cn/turingclass_en/). I am expected to graduate in 2025.
 
-My research interests focus on **Machine Learning systems**, **heterogeneous computing** and **computer architecture**. 
+My research interests focus on **machine learning systems**, **heterogeneous computing** and **computer system**. 
 
-Here is my [CV](../assets/pdf/CV.pdf).
+<!-- Here is my [CV](../assets/pdf/CV.pdf). -->
 
 Feel free to contact me at hobbitqia@zju.edu.cn or hobbitqia@gmail if you’d like to chat!
