@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Jiajun Qin (秦嘉俊 in Chinese), a third-year undergraduate majoring in Computer Science and Technology at [Turing Class, Chu Kochen Honors College, Zhejiang University](http://www.cs.zju.edu.cn/turingclass_en/). I am expected to graduate in 2025.
+I am Jiajun Qin (秦嘉俊 in Chinese), a third-year undergraduate majoring in Computer Science and Technology at [Chu Kochen Honors College, Zhejiang University](http://ckc.zju.edu.cn/ckcen/main.htm). I am expected to graduate in 2025.
 
 My research interests focus on **machine learning systems**, **heterogeneous computing** and **computer system**. 
 
