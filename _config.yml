@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate @ ZJU CS"
   location         : "Hangzhou, Zhejiang, China"
-  employer         : Zhejiang University"
+  employer         : Zhejiang University
   # uri              : https://hobbitqia.github.io # URL
   email            : "hobbitqia@gmail.com" 
 
@@ -71,7 +71,7 @@ author:
   # wikipedia        : # Username
   # xing             : # Username
   # youtube          : # Username
-  zhihu            : zhui-guang-zhe-45-23
+  zhihu            : https://www.zhihu.com/people/zhui-guang-zhe-45-23
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
