@@ -33,6 +33,9 @@ Feel free to contact me at hobbitqia@gmail or hobbitqia@zju.edu.cn if you’d li
     </div>
 </div>
 
+## Publications
+
+* **[DATE]** [HAAN: A Holistic Approach for Accelerating Normalization Operations in Large Language Models]() Tianfan Peng, <u>Jiajun Qin</u>, Tianhua Xia, Sai Qian Zhang. Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025.
 
 ## Experiences
 
