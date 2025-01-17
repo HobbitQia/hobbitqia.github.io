@@ -9,7 +9,7 @@ redirect_from:
 
 I am Jiajun Qin (秦嘉俊 in Chinese), a final-year undergraduate majoring in Computer Science and Technology at Chu Kochen Honors College, Zhejiang University. I am expected to graduate in 2025. I had the privilege to complete a research internship at NYU SAI Lab under the supervision of [Prof.Sai Qian Zhang](https://saiqianzhang.com/). I was also fortunate to collaborate with [Prof.Cheng Tan](https://tancheng.github.io/) from Google and [Prof.Jeff Zhang](https://search.asu.edu/profile/4346755) from ASU. Prior to this, I greatly appreciated the mentorship of [Prof.Zeke Wang](https://wangzeke.github.io/) at RC4ML at ZJU.
 
-I will join The Chinese University of Hong Kong as a CS PhD student, advised by [Prof.Bei Yu](https://www.cse.cuhk.edu.hk/~byu/index.html), starting from 2025 Fall.
+I will join The Chinese University of Hong Kong as a CSE PhD student, advised by [Prof.Bei Yu](https://www.cse.cuhk.edu.hk/~byu/index.html), starting from 2025 Fall.
 
 My research interests include:
 
@@ -19,7 +19,7 @@ My research interests include:
 <!-- * Inference and Application of LLMs -->
 * Electronic Design Automation
 
-Feel free to contact me at hobbitqia@gmail or hobbitqia@zju.edu.cn if you’d like to chat!
+Feel free to contact me at hobbitqia@gmail.com or hobbitqia@zju.edu.cn if you’d like to chat!
 
 ## Education
 
@@ -35,7 +35,8 @@ Feel free to contact me at hobbitqia@gmail or hobbitqia@zju.edu.cn if you’d li
 
 ## Publications
 
-* **[DATE]** [HAAN: A Holistic Approach for Accelerating Normalization Operations in Large Language Models]() Tianfan Peng, <u>Jiajun Qin</u>, Tianhua Xia, Sai Qian Zhang. Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025.
+* [IncreMacro: Incremental Macro Placement Refinement]() Yuan Pu, Tinghuan Chen, Zhuolun He, <u>Jiajun Qin</u>, Chen Bai, Haisheng Zheng, Yibo Lin, Bei Yu. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**).
+* [HAAN: A Holistic Approach for Accelerating Normalization Operations in Large Language Models]() Tianfan Peng, <u>Jiajun Qin</u>, Tianhua Xia, Sai Qian Zhang. Design, Automation & Test in Europe Conference & Exhibition (**DATE**), 2025.
 
 ## Experiences
 
@@ -69,8 +70,8 @@ Feel free to contact me at hobbitqia@gmail or hobbitqia@zju.edu.cn if you’d li
 
 ## Selected Honors & Awards
 
-* Zhejiang Government Scholarship, 2022, 2023
-  * Awarded by Ministry of Education of Zhejiang, 2 consecutive times
+* Zhejiang Government Scholarship, 2022, 2023, 2024
+  * Awarded by Ministry of Education of Zhejiang, 3 consecutive times
 * Huawei Elite Scholarship, 2023
   * Awarded by Huawei Technologies Co., Ltd
 * Third Prize in National Student Computer System Capability Challenge, 2023
@@ -80,14 +81,16 @@ Feel free to contact me at hobbitqia@gmail or hobbitqia@zju.edu.cn if you’d li
 
 ## Teaching Assistants
 
-* CS1029M, Introduction to Computing Systems with [Prof.Yale Patt](https://users.ece.utexas.edu/~patt/) and [Prof.Xiaohong Jiang](https://users.ece.utexas.edu/~patt/), 2023 Summer
+* CS1029M - Introduction to Computing Systems with [Prof.Yale Patt](https://users.ece.utexas.edu/~patt/) and [Prof.Xiaohong Jiang](https://users.ece.utexas.edu/~patt/), 2023 Summer
 * CS2056M - Computer Organization and Design, with [Prof.Haifeng Liu](https://mypage.zju.edu.cn/hfliu), 2024 Spring & Summer
 * CS1028M - Computer SystemⅠ, with [Prof.Li Lu](https://mypage.zju.edu.cn/hfliu) and Prof.Haoting Shen, 2024 Spring & Summer
 * CS2051M - Computer Architecture, with [Prof.Rui Chang](https://person.zju.edu.cn/en/0019220), 2024 Fall & Winter
-* CS3125M - Assembly Language And Microcomputer Interface, with Prof.[Ming Cai](https://person.zju.edu.cn/en/0019220), 2024 Fall & Winter
+* CS3125M - Assembly Language And Microcomputer Interface, with [Prof.Ming Cai](https://person.zju.edu.cn/en/0019220), 2024 Fall & Winter
 * CS1001G - Lab. & Fundamentals of C Programming, 2024 Fall & Winter
+* CS1028M - Computer SystemⅠ, with [Prof.Haifeng Liu](https://mypage.zju.edu.cn/hfliu), 2025 Spring & Summer
+* CS1019F - Digital Logic and Design, with [Prof.Ming Cai](https://person.zju.edu.cn/en/0019220), 2025 Spring & Summer
 
 ## Skills
 
 * **Programming Languages**: C/C++, Verilog, Chisel, Python, Rust
-* **Tools**: Pytorch, Pymtl, Vivado, LaTeX
+* **Tools**: Pytorch, Vivado, LaTeX, Pymtl
