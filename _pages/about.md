@@ -37,10 +37,7 @@ Feel free to contact me at hobbitqia@gmail.com or hobbitqia@zju.edu.cn if you’
 
 For a completed list of publications, see [this](https://hobbitqia.cc/publications/).
 
-* **PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs**
-
-    <u>Jiajun Qin</u>, Tianhua Xia, Cheng Tan, Jeff Zhang, Sai Qian Zhang.  
-    ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025.
+* **PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs**. <u>Jiajun Qin</u>, Tianhua Xia, Cheng Tan, Jeff Zhang, Sai Qian Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025.
 
 ## Experiences
 
