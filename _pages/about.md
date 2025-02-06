@@ -33,10 +33,14 @@ Feel free to contact me at hobbitqia@gmail.com or hobbitqia@zju.edu.cn if you’
     </div>
 </div>
 
-## Publications
+## Selected Publications
 
-* [IncreMacro: Incremental Macro Placement Refinement]() Yuan Pu, Tinghuan Chen, Zhuolun He, <u>Jiajun Qin</u>, Chen Bai, Haisheng Zheng, Yibo Lin, Bei Yu. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**).
-* [HAAN: A Holistic Approach for Accelerating Normalization Operations in Large Language Models]() Tianfan Peng, <u>Jiajun Qin</u>, Tianhua Xia, Sai Qian Zhang. Design, Automation & Test in Europe Conference & Exhibition (**DATE**), 2025.
+For a completed list of publications, see [this](https://hobbitqia.cc/publications/).
+
+* **PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs**
+
+    <u>Jiajun Qin</u>, Tianhua Xia, Cheng Tan, Jeff Zhang, Sai Qian Zhang.  
+    ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025.
 
 ## Experiences
 
@@ -76,7 +80,7 @@ Feel free to contact me at hobbitqia@gmail.com or hobbitqia@zju.edu.cn if you’
   * Awarded by Huawei Technologies Co., Ltd
 * Third Prize in National Student Computer System Capability Challenge, 2023
   * Awarded to Top 10% participants based on the performance of the MIPS processer
-* Second Prize in CSP-S 2019, 2023
+* Second Prize in CSP-S 2019
   * National Olympiad in Informatics in Provinces, awarded by China Computer Federation
 
 ## Teaching Assistants
