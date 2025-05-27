@@ -19,25 +19,13 @@ My research interests include:
 <!-- * Inference and Application of LLMs -->
 * Electronic Design Automation
 
-Feel free to contact me at hobbitqia@gmail.com or hobbitqia@zju.edu.cn if you’d like to chat!
-
-## Education
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="images/zju.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
-    <div style="margin: 0;">
-        <h3 style="margin: 0;">Zhejiang University</h3>
-        <p style="margin: 0;">B.Eng. in Computer Science and Technology, 2021.9 - 2025.6 (expected)</p>
-        <p style="margin: 0;">Turing Class, Chu Kochen Honors College</p>
-        <!-- <p style="margin: 0;">2021.9 - 2025.6 (expected)</p> -->
-    </div>
-</div>
+Feel free to contact me at [hobbitqia@gmail.com]() or [hobbitqia@zju.edu.cn]() if you’d like to chat!
 
 ## Selected Publications
 
 For a completed list of publications, see [this](https://hobbitqia.cc/publications/).
 
-* **PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs**. <u>Jiajun Qin</u>, Tianhua Xia, Cheng Tan, Jeff Zhang, Sai Qian Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025.
+* [PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs](https://dl.acm.org/doi/abs/10.1145/3676641.3716013). <u>Jiajun Qin</u>, Tianhua Xia, Cheng Tan, Jeff Zhang, Sai Qian Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025.
 
 ## Experiences
 
@@ -69,6 +57,18 @@ For a completed list of publications, see [this](https://hobbitqia.cc/publicatio
     </div>
 </div>
 
+## Education
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="images/zju.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
+    <div style="margin: 0;">
+        <h3 style="margin: 0;">Zhejiang University</h3>
+        <p style="margin: 0;">B.Eng. in Computer Science and Technology, 2021.9 - 2025.6 (expected)</p>
+        <p style="margin: 0;">Turing Class, Chu Kochen Honors College</p>
+        <!-- <p style="margin: 0;">2021.9 - 2025.6 (expected)</p> -->
+    </div>
+</div>
+
 ## Selected Honors & Awards
 
 * Zhejiang Government Scholarship, 2022, 2023, 2024
@@ -86,10 +86,10 @@ For a completed list of publications, see [this](https://hobbitqia.cc/publicatio
 * CS2056M - Computer Organization and Design, with [Prof.Haifeng Liu](https://mypage.zju.edu.cn/hfliu), 2024 Spring & Summer
 * CS1028M - Computer SystemⅠ, with [Prof.Li Lu](https://mypage.zju.edu.cn/hfliu) and Prof.Haoting Shen, 2024 Spring & Summer
 * CS2051M - Computer Architecture, with [Prof.Rui Chang](https://person.zju.edu.cn/en/0019220), 2024 Fall & Winter
-* CS3125M - Assembly Language And Microcomputer Interface, with [Prof.Ming Cai](https://person.zju.edu.cn/en/0019220), 2024 Fall & Winter
+* CS3125M - Assembly Language And Microcomputer Interface, with [Prof.Ming Cai](https://person.zju.edu.cn/en/0002444), 2024 Fall & Winter
 * CS1001G - Lab. & Fundamentals of C Programming, 2024 Fall & Winter
 * CS1028M - Computer SystemⅠ, with [Prof.Haifeng Liu](https://mypage.zju.edu.cn/hfliu), 2025 Spring & Summer
-* CS1019F - Digital Logic and Design, with [Prof.Ming Cai](https://person.zju.edu.cn/en/0019220), 2025 Spring & Summer
+* CS1019F - Digital Logic and Design, with [Prof.Ming Cai](https://person.zju.edu.cn/en/0002444), 2025 Spring & Summer
 
 ## Skills
 
