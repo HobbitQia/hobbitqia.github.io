@@ -62,15 +62,16 @@ For a completed list of publications, see [this](https://hobbitqia.cc/publicatio
 
 ## Teaching Assistants
 
-* At Zhejiang University:
-  * CS1029M - Introduction to Computing Systems with [Prof.Yale Patt](https://users.ece.utexas.edu/~patt/) and [Prof.Xiaohong Jiang](https://users.ece.utexas.edu/~patt/), 2023 Summer
-  * CS2056M - [Computer Organization and Design](https://guahao31.github.io/2023_CO/), with [Prof.Haifeng Liu](https://mypage.zju.edu.cn/hfliu), 2024 Spring & Summer
-  * CS1028M - [Computer SystemⅠ](https://git.zju.edu.cn/zju-sys/sys1/sys1-sp24), with [Prof.Li Lu](https://mypage.zju.edu.cn/hfliu) and Prof.Haoting Shen, 2024 Spring & Summer
-  * CS2051M - [Computer Architecture](https://zju-arch.pages.zjusct.io/arch-fa24), with [Prof.Rui Chang](https://person.zju.edu.cn/en/0019220), 2024 Fall & Winter
-  * CS3125M - Assembly Language And Microcomputer Interface, with [Prof.Ming Cai](https://person.zju.edu.cn/en/0002444), 2024 Fall & Winter
-  * CS1001G - Lab. & Fundamentals of C Programming, 2024 Fall & Winter
-  * CS1028M - [Computer System Ⅰ](https://git.zju.edu.cn/zju-sys/sys1/sys1-sp25), with [Prof.Haifeng Liu](https://mypage.zju.edu.cn/hfliu), 2025 Spring & Summer
-  * CS1019F - [Digital Logic and Design](https://guahao31.github.io/2025_DD/), with [Prof.Ming Cai](https://person.zju.edu.cn/en/0002444), 2025 Spring & Summer
+At Zhejiang University:
+
+* CS1029M - Introduction to Computing Systems with [Prof.Yale Patt](https://users.ece.utexas.edu/~patt/) and [Prof.Xiaohong Jiang](https://users.ece.utexas.edu/~patt/), 2023 Summer
+* CS2056M - [Computer Organization and Design](https://guahao31.github.io/2023_CO/), with [Prof.Haifeng Liu](https://mypage.zju.edu.cn/hfliu), 2024 Spring & Summer
+* CS1028M - [Computer SystemⅠ](https://git.zju.edu.cn/zju-sys/sys1/sys1-sp24), with [Prof.Li Lu](https://mypage.zju.edu.cn/hfliu) and Prof.Haoting Shen, 2024 Spring & Summer
+* CS2051M - [Computer Architecture](https://zju-arch.pages.zjusct.io/arch-fa24), with [Prof.Rui Chang](https://person.zju.edu.cn/en/0019220), 2024 Fall & Winter
+* CS3125M - Assembly Language And Microcomputer Interface, with [Prof.Ming Cai](https://person.zju.edu.cn/en/0002444), 2024 Fall & Winter
+* CS1001G - Lab. & Fundamentals of C Programming, 2024 Fall & Winter
+* CS1028M - [Computer System Ⅰ](https://git.zju.edu.cn/zju-sys/sys1/sys1-sp25), with [Prof.Haifeng Liu](https://mypage.zju.edu.cn/hfliu), 2025 Spring & Summer
+* CS1019F - [Digital Logic and Design](https://guahao31.github.io/2025_DD/), with [Prof.Ming Cai](https://person.zju.edu.cn/en/0002444), 2025 Spring & Summer
 
 ## Skills
 
