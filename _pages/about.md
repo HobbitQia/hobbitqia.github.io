@@ -17,13 +17,13 @@ I am Jiajun Qin (秦嘉俊 in Chinese), a first-year PhD student at the Departme
 
 My research interests include:
 
-* Multi-Modal Large Languge Models
-* Controllable Text-to-Image Generattion
 <!-- * Hardware/Software Co-Design for AI -->
+<!-- * Inference and Application of LLMs -->
 * Computer Architecture
 * Reconfigurable Accelerator (e.g. Coarse-Grained Reconfigurable Array)
-<!-- * Inference and Application of LLMs -->
 * Electronic Design Automation
+* Multi-Modal Large Languge Models
+* Controllable Text-to-Image Generattion
 
 Feel free to contact me at [hobbitqia@gmail.com]() if you’d like to chat!
 
@@ -32,6 +32,7 @@ Feel free to contact me at [hobbitqia@gmail.com]() if you’d like to chat!
 For a completed list of publications, see [this](https://hobbitqia.cc/publications/).
 
 * [PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs](https://dl.acm.org/doi/abs/10.1145/3676641.3716013). <u>Jiajun Qin</u>, Tianhua Xia, Cheng Tan, Jeff Zhang, Sai Qian Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025.
+* [FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA](). <u>Jiajun Qin</u>, Cheng Tan, Ruihong Yin, Tianhua Xia, Sai Qian Zhang, Bei Yu. IEEE/ACM Proceedings Design, Automation and Test in Europe (**DATE**), 2026.
 
 ## Education
 
