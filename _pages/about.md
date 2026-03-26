@@ -22,8 +22,9 @@ My research interests include:
 * Computer Architecture
 * Reconfigurable Accelerator (e.g. Coarse-Grained Reconfigurable Array)
 * Electronic Design Automation
-* Multi-Modal Large Languge Models
-* Controllable Text-to-Image Generattion
+* Compiler Optimization for Emerging Hardware
+<!-- * Multi-Modal Large Languge Models -->
+<!-- * Controllable Text-to-Image Generattion -->
 
 Feel free to contact me at [hobbitqia@gmail.com]() if you’d like to chat!
 
@@ -45,14 +46,20 @@ For a completed list of publications, see [this](https://hobbitqia.cc/publicatio
 
 ## Experiences
 
+- ChatEDA Technology Co., Ltd, Shenzhen, China
+  - Research Intern, 2025.05 - Now
+  - Topic: LLM for EDA
+
 - **[SAI Lab](https://saiqianzhang.com/Lab/)**, New York University
   - Remote Research Intern, 2024.3 - 2024.10
   - Supervisor: [Prof. Sai Qian Zhang](https://saiqianzhang.com/)
   - Collaborator: [Dr. Cheng Tan](https://tancheng.github.io/) and [Prof. Jeff Zhang](https://search.asu.edu/profile/4346755)
+  - Topic: SW/HW Co-Design and Reconfigurable Accelerator for LLMs
 
 - **[RC4ML](https://github.com/RC4ML)**, Zhejiang University  
   - Research Intern, 2023.8 - 2024.9
   - Supervisor: [Prof. Zeke Wang](https://wangzeke.github.io/) and [Prof. Jie Zhang](https://carlzhang4.github.io)
+  - Topic: FPGA-based SmartNIC
 
 ## Selected Honors & Awards
 
