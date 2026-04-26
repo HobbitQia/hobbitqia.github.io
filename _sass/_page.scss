@@ -191,27 +191,10 @@
   }
 }
 
-.publication-list {
-  margin: 0 0 1.5em;
-}
-
-.publication-entry {
-  margin-bottom: 0.85em;
-}
-
-.publication-entry__line {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.75rem;
-  flex-wrap: wrap;
-}
-
-.publication-entry__badge {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 4.5rem;
-  padding: 0.2rem 0.6rem;
+.publication-badge {
+  display: inline-block;
+  margin-right: 0.45rem;
+  padding: 0.1rem 0.55rem;
   border: 1px solid #f9cb9cff;
   border-radius: 999px;
   background: #f9cb9cff;
@@ -219,20 +202,16 @@
   font-family: $sans-serif;
   font-size: $type-size-7;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.35;
+  vertical-align: baseline;
   white-space: nowrap;
 }
 
-.publication-entry__content {
-  flex: 1 1 0;
-  min-width: 0;
-}
-
-.publication-entry__venue {
+.publication-venue {
   font-style: italic;
 }
 
-.publication-entry__links {
+.publication-links {
   white-space: nowrap;
 }
 
