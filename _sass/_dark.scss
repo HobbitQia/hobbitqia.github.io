@@ -1,0 +1,153 @@
+html[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+html[data-theme="dark"] body {
+  background: #111827;
+  color: #e5e7eb;
+}
+
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .greedy-nav,
+html[data-theme="dark"] .author__urls,
+html[data-theme="dark"] .greedy-nav .hidden-links,
+html[data-theme="dark"] .toc,
+html[data-theme="dark"] table,
+html[data-theme="dark"] thead,
+html[data-theme="dark"] input,
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] select,
+html[data-theme="dark"] p > code,
+html[data-theme="dark"] a > code,
+html[data-theme="dark"] li > code,
+html[data-theme="dark"] td > code,
+html[data-theme="dark"] div.highlighter-rouge,
+html[data-theme="dark"] figure.highlight {
+  background: #1f2937;
+}
+
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .page__footer,
+html[data-theme="dark"] .greedy-nav .hidden-links,
+html[data-theme="dark"] .author__urls,
+html[data-theme="dark"] .toc,
+html[data-theme="dark"] table,
+html[data-theme="dark"] th,
+html[data-theme="dark"] td,
+html[data-theme="dark"] thead,
+html[data-theme="dark"] input,
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] select,
+html[data-theme="dark"] p > code,
+html[data-theme="dark"] a > code,
+html[data-theme="dark"] li > code,
+html[data-theme="dark"] td > code,
+html[data-theme="dark"] div.highlighter-rouge,
+html[data-theme="dark"] figure.highlight,
+html[data-theme="dark"] .author__avatar img,
+html[data-theme="dark"] .page__content h2,
+html[data-theme="dark"] .archive__subtitle,
+html[data-theme="dark"] .page__share,
+html[data-theme="dark"] .page__meta,
+html[data-theme="dark"] .page__footer,
+html[data-theme="dark"] .nav__sub-title,
+html[data-theme="dark"] hr {
+  border-color: #374151;
+}
+
+html[data-theme="dark"] a {
+  color: #93c5fd;
+}
+
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] a:focus {
+  color: #bfdbfe;
+}
+
+html[data-theme="dark"] .masthead a,
+html[data-theme="dark"] .greedy-nav a,
+html[data-theme="dark"] .sidebar a,
+html[data-theme="dark"] .page__footer a {
+  color: #e5e7eb;
+}
+
+html[data-theme="dark"] .greedy-nav .visible-links a:before {
+  background: #93c5fd;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links a:hover,
+html[data-theme="dark"] .author__urls a:hover,
+html[data-theme="dark"] .toc__menu a:hover {
+  background: #273449;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:before,
+html[data-theme="dark"] .author__urls:before {
+  border-color: #374151 transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:after,
+html[data-theme="dark"] .author__urls:after {
+  border-color: #1f2937 transparent;
+}
+
+html[data-theme="dark"] .greedy-nav button {
+  background: #374151;
+}
+
+html[data-theme="dark"] .page__footer {
+  background: #0f172a;
+  color: #cbd5e1;
+}
+
+html[data-theme="dark"] .page__footer .fas,
+html[data-theme="dark"] .page__footer .fab,
+html[data-theme="dark"] .page__footer .far,
+html[data-theme="dark"] .page__footer .fal,
+html[data-theme="dark"] figcaption,
+html[data-theme="dark"] .page__meta,
+html[data-theme="dark"] .archive__subtitle,
+html[data-theme="dark"] .toc,
+html[data-theme="dark"] .toc__menu a {
+  color: #cbd5e1;
+}
+
+html[data-theme="dark"] .toc__menu a:hover {
+  color: #f8fafc;
+}
+
+html[data-theme="dark"] .theme-toggle {
+  background: #1f2937;
+  border-color: #4b5563;
+  color: #e5e7eb;
+}
+
+html[data-theme="dark"] .theme-toggle:hover,
+html[data-theme="dark"] .theme-toggle:focus {
+  background: #273449;
+  border-color: #60a5fa;
+  color: #f8fafc;
+}
+
+html[data-theme="dark"] blockquote {
+  color: #d1d5db;
+}
+
+html[data-theme="dark"] u,
+html[data-theme="dark"] ins,
+html[data-theme="dark"] abbr[title],
+html[data-theme="dark"] abbr[data-original-title] {
+  border-color: #9ca3af;
+}
+
+html[data-theme="dark"] input,
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] select {
+  color: #e5e7eb;
+}
+
+html[data-theme="dark"] div.highlighter-rouge:before,
+html[data-theme="dark"] figure.highlight:before {
+  background: #273449;
+  color: #cbd5e1;
+}

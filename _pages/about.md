@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Jiajun Qin (秦嘉俊 in Chinese), a first-year PhD student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Bei YU](https://www.cse.cuhk.edu.hk/~byu/) since 2025 Fall. Prior to that, I graduated from Zhejiang University (Turing Honors Class) in 2025.
+I am Jiajun Qin (秦嘉俊 in Chinese), a first-year PhD student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK) since 2025 Fall. Prior to that, I graduated from Zhejiang University (Turing Honors Class) in 2025.
 
 <!-- Prior to that, I graduated from Zhejiang University in 2025. I had the privilege to complete a research internship at NYU SAI Lab under the supervision of [Prof.Sai Qian Zhang](https://saiqianzhang.com/). I was also fortunate to collaborate with [Prof.Cheng Tan](https://tancheng.github.io/) from Google and [Prof.Jeff Zhang](https://search.asu.edu/profile/4346755) from ASU. Prior to this, I greatly appreciated the mentorship of [Prof.Zeke Wang](https://wangzeke.github.io/) at RC4ML at ZJU. -->
 
@@ -17,12 +17,11 @@ I am Jiajun Qin (秦嘉俊 in Chinese), a first-year PhD student at the Departme
 
 My research interests include:
 
-<!-- * Hardware/Software Co-Design for AI -->
+* Hardware/Software Co-Design
 <!-- * Inference and Application of LLMs -->
 * Computer Architecture
 * Reconfigurable Accelerator (e.g. Coarse-Grained Reconfigurable Array)
 * Electronic Design Automation
-* Compiler Optimization for Emerging Hardware
 <!-- * Multi-Modal Large Languge Models -->
 <!-- * Controllable Text-to-Image Generattion -->
 
@@ -32,8 +31,20 @@ Feel free to contact me at [hobbitqia@gmail.com]() if you’d like to chat!
 
 For a completed list of publications, see [this](https://hobbitqia.cc/publications/).
 
-* [PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs](https://dl.acm.org/doi/abs/10.1145/3676641.3716013). <u>Jiajun Qin</u>, Tianhua Xia, Cheng Tan, Jeff Zhang, Sai Qian Zhang. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025.
-* [FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA](). <u>Jiajun Qin</u>, Cheng Tan, Ruihong Yin, Tianhua Xia, Sai Qian Zhang, Bei Yu. IEEE/ACM Proceedings Design, Automation and Test in Europe (**DATE**), 2026.
+<div class="publication-list">
+  <div class="publication-entry">
+    <div class="publication-entry__line">
+      <span class="publication-entry__badge">ASPLOS'25</span>
+      <span class="publication-entry__content"><a href="https://dl.acm.org/doi/abs/10.1145/3676641.3716013">PICACHU: Plug-In CGRA Handling Upcoming Nonlinear Operations in LLMs</a>. <u>Jiajun Qin</u>, Tianhua Xia, Cheng Tan, Jeff Zhang, Sai Qian Zhang. <span class="publication-entry__venue">ACM International Conference on Architectural Support for Programming Languages and Operating Systems</span>, 2025.</span>
+    </div>
+  </div>
+  <div class="publication-entry">
+    <div class="publication-entry__line">
+      <span class="publication-entry__badge">DATE'26</span>
+      <span class="publication-entry__content"><strong>FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA</strong>. <u>Jiajun Qin</u>, Cheng Tan, Ruihong Yin, Tianhua Xia, Sai Qian Zhang, Bei Yu. <span class="publication-entry__venue">IEEE/ACM Proceedings Design, Automation and Test in Europe</span>, 2026.</span>
+    </div>
+  </div>
+</div>
 
 ## Education
 
