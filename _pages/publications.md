@@ -7,7 +7,7 @@ author_profile: true
 ## **2026**
 
 * <span class="publication-badge">ISEDA'26</span> Hongyu Pang, <u>Jiajun Qin</u>, Song Chen, Qi Xu, **RouteFlow: A Routing-Efficient CGRA Framework Through Accelerated Layout-Aware Mapping**, <span class="publication-venue">IEEE/ACM International Symposium of EDA</span>, 2026.
-* <span class="publication-badge">DATE'26</span> **FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA**. <u>Jiajun Qin</u>, Cheng Tan, Ruihong Yin, Tianhua Xia, Sai Qian Zhang, Bei Yu. <span class="publication-venue">IEEE/ACM Proceedings Design, Automation and Test in Europe</span>, 2026.
+* <span class="publication-badge">DATE'26</span> <u>Jiajun Qin</u>, Cheng Tan, Ruihong Yin, Tianhua Xia, Sai Qian Zhang, Bei Yu, **FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA**. <span class="publication-venue">IEEE/ACM Proceedings Design, Automation and Test in Europe</span>, 2026.
 * <span class="publication-badge">DATE'26</span> Zhenghao Chen, Yuan Pu, Hairuo Han, Yuntao Nie, <u>Jiajun Qin</u>, Yuhan Qin, Tairu Qiu, Zhuolun He, Jianwang Zhai, Bei Yu, Kang Zhao, **MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA**, <span class="publication-venue">IEEE/ACM Proceedings Design, Automation and Test in Europe</span>, 2026.
 
 ## **2025**
