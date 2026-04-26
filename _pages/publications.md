@@ -9,8 +9,8 @@ author_profile: true
 <div class="publication-list">
   <div class="publication-entry">
     <div class="publication-entry__line">
-      <span class="publication-entry__badge">DATE'26</span>
-      <span class="publication-entry__content"><u>Jiajun Qin</u>, Cheng Tan, Ruihong Yin, Tianhua Xia, Sai Qian Zhang, Bei Yu, <strong>FLAME: A Framework Exploring Execution Strategies for Multi-Cycle Operations in CGRA</strong>, <span class="publication-entry__venue">IEEE/ACM Proceedings Design, Automation and Test in Europe</span>, 2026.</span>
+      <span class="publication-entry__badge">ISEDA'26</span>
+      <span class="publication-entry__content">Hongyu Pang, <u>Jiajun Qin</u>, Song Chen, Qi Xu, <strong>RouteFlow: A Routing-Efficient CGRA Framework Through Accelerated Layout-Aware Mapping</strong>, <span class="publication-entry__venue">IEEE/ACM International Symposium of EDA, 2026.</span>
     </div>
   </div>
   <div class="publication-entry">
