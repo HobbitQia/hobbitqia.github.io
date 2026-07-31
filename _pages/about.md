@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jiajun Qin** (秦嘉俊 in Chinese), a first-year PhD student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK) since 2025 Fall, advised by [Prof.Bei Yu](https://www.cse.cuhk.edu.hk/~byu/index.html). Prior to that, I graduated from Zhejiang University (Turing Honors Class) in 2025.
+I am **Jiajun Qin** (秦嘉俊 in Chinese), a second-year PhD student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK) since 2025 Fall, advised by [Prof.Bei Yu](https://www.cse.cuhk.edu.hk/~byu/index.html). Prior to that, I graduated from Zhejiang University (Turing Honors Class) in 2025.
 
 <!-- Prior to that, I graduated from Zhejiang University in 2025. I had the privilege to complete a research internship at NYU SAI Lab under the supervision of [Prof.Sai Qian Zhang](https://saiqianzhang.com/). I was also fortunate to collaborate with [Prof.Cheng Tan](https://tancheng.github.io/) from Google and [Prof.Jeff Zhang](https://search.asu.edu/profile/4346755) from ASU. Prior to this, I greatly appreciated the mentorship of [Prof.Zeke Wang](https://wangzeke.github.io/) at RC4ML at ZJU. -->
 
