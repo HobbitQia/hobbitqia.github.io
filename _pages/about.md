@@ -79,6 +79,10 @@ For a completed list of publications, see [this](https://hobbitqia.cc/publicatio
 
 ## Teaching Assistants
 
+At The Chinese University of Hong KOng:
+
+* ENGG1110 - Problem Solving By Programming with [Dr.Calvin Kam](https://www.calvinkam.science), 2026 Fall
+
 At Zhejiang University:
 
 * CS1029M - Introduction to Computing Systems with [Prof.Yale Patt](https://users.ece.utexas.edu/~patt/) and [Prof.Xiaohong Jiang](https://users.ece.utexas.edu/~patt/), 2023 Summer
