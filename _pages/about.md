@@ -47,7 +47,7 @@ For a completed list of publications, see [this](https://hobbitqia.cc/publicatio
 ## Experiences
 
 - China Mobile (Hong Kong) Innovation Research Institute, Hong Kong SAR, China
-  - PhD Intern, 2026.04 - 2026.08 (expected)
+  - PhD Intern, 2026.04 - 2026.08
   - Topic: AI-assisted Development
 
 - ChatEDA Technology Co., Ltd, Shenzhen, China
@@ -67,8 +67,9 @@ For a completed list of publications, see [this](https://hobbitqia.cc/publicatio
 
 ## Academic Services
 
+* **Artifact Evaluation Committee**: ASPLOS 2027, MICRO 2026
 * **External Reviewer**: FPL 2026
-* **Assist to Review**: DAC 2025, ASP-DAC 2026, ICCAD 2026, NeurIPS 2025
+* **Secondary Reviewer**: HPCA 2027, ASP-DAC 2026, ICCAD 2026, NeurIPS 2025, DAC 2025
 
 ## Selected Honors & Awards
 
