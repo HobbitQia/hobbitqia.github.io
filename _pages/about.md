@@ -27,6 +27,22 @@ My research interests include:
 
 Feel free to contact me at [hobbitqia@gmail.com]() if you’d like to chat!
 
+## News
+
+<div class="news-box" markdown="1">
+
+*I will attend **ICCAD 2026** in San Jose (Nov 9–11, 2026) and the **ICCD 2026 Student Research Forum** in Hong Kong (Nov 16–18, 2026). Feel free to reach out if you'd like to meet and discuss!*
+{: .conference-plans}
+
+* <span class="news-date">Jul/2026:</span> Our paper **NUKE** has been accepted to **ICCAD 2026**!
+* <span class="news-date">Apr/2026:</span> I presented **FLAME** at **DATE 2026** in Verona, Italy (Apr 20–22, 2026).
+* <span class="news-date">Nov/2025:</span> Our papers **FLAME** and **MAEDA** have been accepted to **DATE 2026**!
+* <span class="news-date">Jun/2025:</span> I graduated from Zhejiang University, completing my B.Eng. in Computer Science and Technology in the Turing Honors Class (<button type="button" class="news-photo image-popup" data-mfp-src="{{ '/images/me.jpg' | relative_url }}" aria-label="View my graduation photo" aria-haspopup="dialog">photo</button>).
+* <span class="news-date">Apr/2025:</span> I presented **PICACHU** at **ASPLOS 2025** in Rotterdam, the Netherlands (Mar 30–Apr 3, 2025).
+* <span class="news-date">Feb/2025:</span> Our paper **PICACHU** has been accepted to **ASPLOS 2025**!
+
+</div>
+
 ## Selected Publications
 
 For a completed list of publications, see [this](https://hobbitqia.cc/publications/).
