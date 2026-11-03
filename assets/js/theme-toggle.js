@@ -35,11 +35,13 @@
   function updateButtons(theme) {
     var buttons = document.querySelectorAll('.theme-toggle');
     var isDark = theme === 'dark';
+    var isChinese = root.lang.indexOf('zh') === 0;
+    var label = isChinese ? (isDark ? '切换到浅色模式' : '切换到深色模式') : (isDark ? 'Switch to light mode' : 'Switch to dark mode');
 
     Array.prototype.forEach.call(buttons, function(button) {
       button.setAttribute('aria-pressed', isDark ? 'true' : 'false');
-      button.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
-      button.setAttribute('title', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+      button.setAttribute('aria-label', label);
+      button.setAttribute('title', label);
     });
   }
 

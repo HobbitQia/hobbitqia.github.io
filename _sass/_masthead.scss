@@ -55,6 +55,40 @@
   flex: 0 0 auto;
   display: flex;
   align-items: center;
+  gap: 0.55rem;
+}
+
+.language-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.5rem;
+  padding: 0.25rem 0.7rem;
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  color: $text-color;
+  font-size: 0.9rem;
+  font-weight: 600;
+  white-space: nowrap;
+
+  &:hover,
+  &:focus-visible {
+    background: #f1f5f9;
+    border-color: #94a3b8;
+    color: #1f2937;
+  }
+}
+
+html[data-theme="dark"] .language-toggle {
+  color: #e5e7eb;
+  border-color: #4b5563;
+
+  &:hover,
+  &:focus-visible {
+    color: #f8fafc;
+    background: #273449;
+    border-color: #94a3b8;
+  }
 }
 
 .theme-toggle {

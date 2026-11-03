@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0.5 of 12);
   }
 
   .page__inner-wrap {
@@ -49,6 +49,8 @@
 }
 
 .page__content {
+  font-family: $serif;
+  font-optical-sizing: auto;
 
   h2 {
     padding-bottom: 0.5em;
@@ -191,7 +193,114 @@
   }
 }
 
+.research-overview {
+  margin: 0 0 1em;
+
+  > summary {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    flex-wrap: nowrap;
+    list-style: none;
+    width: fit-content;
+    white-space: nowrap;
+    color: #4b5563;
+    font-family: $sans-serif;
+    font-size: 1.15em;
+    font-weight: 600;
+    line-height: 1.4;
+    padding: 0.15em 0;
+    cursor: pointer;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "\25B6";
+      display: inline-block;
+      flex: 0 0 1em;
+      font-size: 1em;
+      line-height: 1;
+      text-align: center;
+    }
+
+    &:hover {
+      color: #1f2937;
+      text-decoration: underline;
+    }
+
+    &:focus-visible {
+      outline: 2px solid currentColor;
+      outline-offset: 3px;
+      border-radius: $border-radius;
+    }
+  }
+
+  &[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  &__body {
+    padding-top: 0.75em;
+
+    p {
+      margin: 0 0 1em;
+    }
+
+  }
+
+  &__group {
+    margin-bottom: 0.85em;
+    padding: 0.85em 1em;
+    border: 1px solid #b4c8dc;
+    border-left: 3px solid #7f9eb8;
+    border-radius: 6px;
+    background: #edf4fa;
+
+    &--compilers {
+      border-color: #adcbbc;
+      border-left-color: #739c87;
+      background: #edf6f0;
+    }
+
+    &--systems {
+      border-color: #c6b8db;
+      border-left-color: #9983b6;
+      background: #f3eff8;
+    }
+
+    p {
+      margin: 0 0 0.65em;
+    }
+
+    p.research-overview__heading {
+      margin-bottom: 0.5em;
+      font-family: $sans-serif;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 1.25em;
+    }
+
+    li {
+      margin-bottom: 0.55em;
+    }
+
+    > :last-child,
+    li:last-child {
+      margin-bottom: 0;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
 .news-box {
+  font-family: $sans-serif;
   margin: 0 0 1.3em;
   padding: 0.85em 1em;
   border: 1px solid #d8d5c4;
@@ -246,15 +355,16 @@
 .publication-badge {
   display: inline-block;
   margin-right: 0.45rem;
-  padding: 0.14rem 0.62rem;
+  padding: 0.08em 0.38em;
   border: 1px solid #f9cb9cff;
-  border-radius: 999px;
+  border-radius: 4px;
   background: #f9cb9cff;
   color: $text-color;
   font-family: $sans-serif;
-  font-size: $type-size-6;
+  font-style: normal;
+  font-size: 0.9em;
   font-weight: 700;
-  line-height: 1.4;
+  line-height: 1.25;
   vertical-align: baseline;
   white-space: nowrap;
 }

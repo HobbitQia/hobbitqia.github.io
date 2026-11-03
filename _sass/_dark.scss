@@ -133,6 +133,32 @@ html[data-theme="dark"] blockquote {
   color: #d1d5db;
 }
 
+html[data-theme="dark"] .research-overview > summary {
+  color: #d1d5db;
+}
+
+html[data-theme="dark"] .research-overview > summary:hover {
+  color: #f8fafc;
+}
+
+html[data-theme="dark"] .research-overview__group {
+  border-color: #68829d;
+  border-left-color: #8ca9c5;
+  background: #243447;
+}
+
+html[data-theme="dark"] .research-overview__group--compilers {
+  border-color: #648874;
+  border-left-color: #8bb29c;
+  background: #22392e;
+}
+
+html[data-theme="dark"] .research-overview__group--systems {
+  border-color: #87759f;
+  border-left-color: #b39bce;
+  background: #342b43;
+}
+
 html[data-theme="dark"] .news-box {
   background: #1f2937;
   border-color: #4b5563;
